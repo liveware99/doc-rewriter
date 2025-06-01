@@ -46,7 +46,7 @@ proposal_backend/
 1. Install Ollama and pull the model:
 
 ```bash
-ollama pull deepseek-r1:8b
+ollama pull deepseek-coder:latest
 ```
 
 2. Start the backend:
