@@ -1,0 +1,6 @@
+{
+    "<MODEL_LOGIC>": "The system uses a locally hosted LLM (e.g., DeepSeek or LLaMA 3) with semantic retrieval to rewrite only the compliant sections. It uses placeholders within a Word template and dynamically replaces content based on structured customer requirements.",
+    "<UI_FEATURES>": "The user interface is built with Streamlit, offering file upload, side-by-side content previews, and editable fields before final generation. It is designed for ease of use and minimal technical training.",
+    "<SECURITY_COMPLIANCE>": "All data is processed locally within the customer's environment, ensuring no sensitive documents are uploaded to external servers. Temporary files are deleted after session completion to ensure privacy.",
+    "<DEPLOYMENT_TIMELINE>": "Deployment typically takes 2–3 weeks  weeks depending on environment readiness. This includes backend setup, frontend integration, testing, and user training."
+}

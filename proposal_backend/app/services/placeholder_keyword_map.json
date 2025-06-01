@@ -1,0 +1,13 @@
+{
+  "<SIM_SWAP_SUPPORT>": [
+    "sim swap",
+    "detect sim change",
+    "card swap"
+  ],
+  "<DEPLOYMENT_TIMELINE>": [
+    "deployment",
+    "timeline",
+    "go-live",
+    "delivery"
+  ]
+}

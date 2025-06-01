@@ -1,0 +1,33 @@
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Environments
+.venv/
+env/
+venv/
+doc-rewriter/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Word/Excel temp files
+~$*
+
+# IDE configs
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# Final generated docs
+generated_*.docx
+
+# temp files
+uploads/
+output/
